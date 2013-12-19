@@ -6,6 +6,8 @@ use samson\core\iModuleCompressable;
 class SocialAuth extends \samson\core\Service implements iModuleCompressable
 {
 	protected $id = 'socialauth';
+	
+	
 
 	protected $requirements = array
 	(
