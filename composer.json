@@ -1,0 +1,8 @@
+{
+	"name":"samsonos/php_letsads",
+	"author":"Vitaly Iegorov <egorov@samsonos.com>",
+	"version":"1.0.0",
+	"require":{"samsonos/php_core":"*"},
+	"license":"Open Software License (OSL) v 3.0",
+	"homepage":"http://samsonos.com/"
+}
